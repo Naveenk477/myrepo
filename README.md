@@ -1,2 +1,2 @@
 # myrepo
-1st committ
+1st commit
